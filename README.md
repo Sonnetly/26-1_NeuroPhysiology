@@ -190,4 +190,4 @@ This pipeline validates the **SWR detection and spike-phase locking** components
 ## Acknowledgements
 
 - Allen Institute for Brain Science — Visual Coding Neuropixels dataset and AllenSDK
-- Course materials: Week 4 Systems Electrophysiology II, GIST BMSE 20254016
+- Course materials: Week 4 Systems Electrophysiology II
